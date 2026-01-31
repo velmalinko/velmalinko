@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @velmalinko
+- 👋 Hi, I’m @velmalinko, COO of Junction Hackathon 
 - 👀 I’m interested in all things new in tech and how to apply them to our everyday lives ;)
 - 🌱 I’m currently learning Human-Centered Design in Software Engineering and Digital Services with a Management heavy perspective
 - 📫 How to reach me: velma.linko@outlook.com
