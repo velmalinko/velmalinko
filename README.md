@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @velmalinko, COO of Junction Hackathon 
 - 👀 I’m interested in all things new in tech and how to apply them to our everyday lives ;)
 - 🌱 I’m currently learning Human-Centered Design in Software Engineering and Digital Services with a Management heavy perspective
-- 📫 How to reach me: velma.linko@outlook.com
+- 📫 How to reach me: velma.linko@hackjunction.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I have a double major; Economics and Information networks
+- ⚡ Fun fact: I am also currently volunteering as the International and Master's Captain of Athene <3
 
 <!---
 velmalinko/velmalinko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
